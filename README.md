@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
+<h1 align="center">Hi 👋, I'm Rishabh </h1>
 <h3 align="center">🚀 DataOps Hashira · Cloud Data Engineer · Data Architect</h3>
 
 <p align="center">
