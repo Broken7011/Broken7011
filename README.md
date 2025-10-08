@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishabh (RG)  
+# 👋 Hi, I'm Rishabh Gulati
 
 💡 **DevOps | Cloud Engineer**  
 ⚡ Building **scalable DevOps platforms, pipelines, and cloud-native systems**  
