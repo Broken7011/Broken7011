@@ -88,7 +88,7 @@ If it scales, automates, survives failures, and powers insights — **I'm in.**
 - **Service Mesh:** Istio, Kiali
 
 ### 🧠 Programming & Automation
-- **Languages:** Python, SQL, Go, Shell scripting
+- **Languages:** Python, SQL, Shell scripting
 - **Data Processing:** Pandas, NumPy, Polars
 - **APIs:** FastAPI, Flask, REST/GraphQL
 - **Automation:** Python automation, workflow optimization
@@ -100,7 +100,6 @@ If it scales, automates, survives failures, and powers insights — **I'm in.**
 <p align="center">
   <!-- Row 1: Data Engineering Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="45" height="45"/>
@@ -170,6 +169,3 @@ If it scales, automates, survives failures, and powers insights — **I'm in.**
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
