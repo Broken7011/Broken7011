@@ -1,14 +1,9 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
+<h1 align="center">Hi 👋, I'm Rish</h1>
 <h3 align="center">⚔️ Data Engineering Hashira · DataOps Specialist · Cloud Infrastructure Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Data+Engineering+Hashira;DataOps+Specialist;Cloud+Infrastructure+Engineer;Spark+%7C+Kafka+%7C+Airflow+%7C+Snowflake;Python+%7C+SQL+%7C+ETL+%7C+PowerBI;Building+production-ready+data+platforms.+Fast.+Precise.+Unstoppable." alt="typing banner"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Broken7011?tab=followers"><img src="https://img.shields.io/github/followers/Broken7011?style=flat&label=Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Broken7011&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <h4 align="center">
@@ -29,43 +24,6 @@ If it scales, automates, survives failures, and powers insights — **I'm in.**
 
 ---
 
-## 🏆 Trophies & Achievements
-<p align="center">
-  <img
-    src="https://github-trophies.vercel.app/?username=Broken7011&theme=tokyonight&no-frame=true&column=7"
-    alt="GitHub Profile Trophies"
-  />
-</p>
-
----
-
-## ⚔️ Stats Like a True Data Hashira
-<div align="center">
-
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Broken7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Broken7011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broken7011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Broken7011&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ## ⚡ What I Do (The Hashira Toolkit)
 
