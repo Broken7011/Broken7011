@@ -16,7 +16,7 @@ Obsessed with pipelines ⚡, observability ✨, and distributed systems 🧠.
 
 ## 🧭 About Me
 
-Data Analyst turned **Data Engineer** with **3+ years** of hands-on experience designing, automating, and maintaining production data systems. I specialize in building scalable data platforms where **DevOps, Data Engineering, MLOps, and Cloud Infrastructure** converge.
+**Data Engineer** with **3+ years** of hands-on experience designing, automating, and maintaining production data systems. I specialize in building scalable data platforms where **DevOps, Data Engineering, MLOps, and Cloud Infrastructure** converge.
 
 **My arsenal:** Kubernetes for orchestration · Terraform for IaC · Airflow for workflows · Spark/Kafka for distributed data processing · Python/SQL for everything in between.
 
