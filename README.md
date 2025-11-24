@@ -45,12 +45,6 @@ If it scales, automates, survives failures, and powers insights — **I'm in.**
 - **Observability:** Grafana, Prometheus, Loki, Tempo
 - **Service Mesh:** Istio, Kiali
 
-### 🧠 Programming & Automation
-- **Languages:** Python, SQL, Shell scripting
-- **Data Processing:** Pandas, NumPy, Polars
-- **APIs:** FastAPI, Flask, REST/GraphQL
-- **Automation:** Python automation, workflow optimization
-
 ---
 
 ## 🧰 Tech Arsenal
