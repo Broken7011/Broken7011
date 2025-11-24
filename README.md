@@ -24,29 +24,6 @@ If it scales, automates, survives failures, and powers insights — **I'm in.**
 
 ---
 
-
-## ⚡ What I Do (The Hashira Toolkit)
-
-### 📊 Data Engineering & DataOps
-- **Big Data Processing:** Apache Spark, PySpark
-- **Streaming Pipelines:** Apache Kafka, Kafka Streams
-- **Workflow Orchestration:** Apache Airflow, Prefect
-- **Data Warehousing:** Snowflake, Redshift, BigQuery
-- **ETL/ELT:** dbt, Talend, custom Python pipelines
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Data Quality:** Great Expectations, data lineage tracking
-- **Analytics:** PowerBI, Tableau, Excel automation
-
-### 🏗 Cloud & Platform Engineering
-- **Container Orchestration:** Kubernetes (EKS, AKS, GKE), Docker
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **Cloud Platforms:** AWS, Azure, GCP
-- **CI/CD:** GitHub Actions, Jenkins, ArgoCD (GitOps)
-- **Observability:** Grafana, Prometheus, Loki, Tempo
-- **Service Mesh:** Istio, Kiali
-
----
-
 ## 🧰 Tech Arsenal
 
 <p align="center">
