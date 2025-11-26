@@ -3,7 +3,7 @@
 <h3 align="center">⚔️ Data Engineering Hashira · DataOps Specialist · Cloud Infrastructure Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Data+Engineering+Hashira;DataOps+Specialist;Cloud+Infrastructure+Engineer;Spark+%7C+Kafka+%7C+Airflow+%7C+Snowflake;Python+%7C+SQL+%7C+ETL+%7C+PowerBI;Building+production-ready+data+platforms.+Fast.+Precise.+Unstoppable." alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Data+Engineering+Hashira;DataOps+Specialist;Cloud+Infrastructure+Engineer;Spark+%7C+Kafka+%7C+Airflow+%7C+Snowflake;Building+production-ready+data+platforms." alt="typing banner"/>
 </p>
 
 <h4 align="center">
