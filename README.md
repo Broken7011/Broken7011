@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Infrastructure+Hashira;Backend+Architect;Cloud+%26+DevOps+Specialist;Kubernetes+%7C+AWS+%7C+Azure+%7C+GCP;Golang+%7C+Python+%7C+Node.js;Scaling+things.+Shipping+fast.+Staying+humble." alt="typing banner"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/witcher7?tab=followers"><img src="https://img.shields.io/github/followers/witcher7?style=flat&label=Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=witcher7&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <h4 align="center">
 I build, automate, and scale badass systems with <b> TS/JS/NodeJS/NestJS, Golang, Python, AWS, Azure, GCP, and Kubernetes</b>.<br/>
 Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustling, always learning.
