@@ -40,7 +40,7 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 
 <p align="center">
   <!-- Messaging & DB -->
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -61,16 +61,6 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
 </p>
-
----
-
-## 🛠️ Also Comfortable With
-
-- 🐍 Python (FastAPI, Django)
-- ⚛️ React
-- 🅰️ Angular
-- MongoDB
-- Monitoring (Prometheus, Grafana)
 
 ---
 
