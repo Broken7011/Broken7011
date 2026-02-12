@@ -1,68 +1,91 @@
-
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center">🚀Backend Engineer · Cloud & DevOps Specialist</h3>
+<h3 align="center">🚀 Backend Engineer · Java Spring Microservices · Cloud & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Infrastructure+Hashira;Backend+Architect;Cloud+%26+DevOps+Specialist;Kubernetes+%7C+AWS+%7C+Azure+%7C+GCP;Golang+%7C+Python+%7C+Node.js;Scaling+things.+Shipping+fast.+Staying+humble." alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Java+%7C+Spring+Boot+%7C+WebFlux;Microservices+%7C+Event-Driven+Architecture;Kafka+%7C+RabbitMQ;AWS+%7C+Azure+%7C+Kubernetes;Building+scalable+distributed+systems." alt="typing banner"/>
 </p>
 
 <h4 align="center">
-I build, automate, and scale badass systems with <b> TS, Golang, Python, AWS, Azure, GCP, and Kubernetes</b>.<br/>
-Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustling, always learning.
+I design and build scalable backend systems using <b>Java, Spring Boot, Spring WebFlux</b> and modern cloud-native architecture.<br/>
+Focused on performance ⚡ reliability 🛡️ and clean system design.
 </h4>
-
 
 ---
 
-## 🧰 Languages and Tools
+## 🧠 Core Expertise
+
+- ⚙️ Java (Spring Boot, Spring WebFlux, Spring Security, Spring AI)
+- 🧩 Microservices Architecture
+- 📦 Event-Driven Systems (Kafka, RabbitMQ)
+- 🔐 Authentication & Authorization (JWT, OAuth2)
+- 🗃️ PostgreSQL, MySQL, Redis
+- 🐳 Docker & Kubernetes
+- ☁️ AWS & Azure
+- 🚀 CI/CD & DevOps Automation
+
+---
+
+## 🧰 Tech Stack
+
 <p align="center">
-  <!-- row 1 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" width="40" height="40" style="filter: invert(1);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+  <!-- Core Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45" height="45"/>
 </p>
+
 <p align="center">
-  <!-- row 2 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45"/>
 </p>
+
 <p align="center">
-  <!-- row 3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <!-- DevOps & Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45"/>
 </p>
+
+---
+
+## 🛠️ Also Comfortable With
+
+- 🐍 Python (FastAPI, Django)
+- ⚛️ React
+- 🅰️ Angular
+- MongoDB
+- Monitoring (Prometheus, Grafana)
+
+---
+
+## 🏗️ What I Build
+
+- High-throughput microservices
+- Reactive systems using WebFlux
+- Event-driven distributed systems
+- Cloud-native applications
+- Containerized production deployments
+- AI-powered backend integrations
 
 ---
 
 ## 🌐 Connect
+
 <p align="center">
-  <a href="mailto:gulati.r2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!--  <a href="https://linkedin.com/in/rishabh-gulati7121"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-  <a href="https://github.com/broken7011"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:gulati.r2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/broken7011">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> “Breaking clusters, fixing them faster ⚡. Scaling like a Hashira 🥷.”
+## ⚡ Philosophy
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+> Design for scale. Build for reliability. Automate everything.
