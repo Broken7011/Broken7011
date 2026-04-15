@@ -40,6 +40,11 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 <td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
+  <img src="https://upload.vectorlogo.zone/logos/tiangolo_fastapi/images/e8823ac9-34a3-43ab-bb70-6b1625dd06c8.svg" width="40"/>
+  <img src="https://upload.vectorlogo.zone/logos/htmx/images/ec8cd814-59eb-4c7d-a97d-e056e6e100ea.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gorillatoolkit/gorillatoolkit-icon.svg" width="40"/>
+  
+  
 </td>
 
 <td align="center">
@@ -58,6 +63,12 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/containerstorageinterface/containerstorageinterface-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/containerstorageinterface/containerstorageinterface-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" width="40"/>
+  
 </td>
 
 <td align="center">
