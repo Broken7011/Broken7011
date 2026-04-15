@@ -57,10 +57,7 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 </td>
 
 <td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60"/> <img src="https://www.vectorlogo.zone/logos/containerstorageinterface/containerstorageinterface-icon.svg" width="60"/> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg" width="60"/> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" width="60"/> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="60"/> <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" width="60"/>
 </td>
 
 <td align="center">
