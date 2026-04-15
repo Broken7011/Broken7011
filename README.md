@@ -28,7 +28,6 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 ## 🧰 Tech Stack
 
 <p align="center">
-<p align="center">
   <!-- Core Backend -->
 
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45"/>
