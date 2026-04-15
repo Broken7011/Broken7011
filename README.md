@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Engineer · Golang Microservices · Cloud & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Java+%7C+Spring+Boot+%7C+WebFlux;Microservices+%7C+Event-Driven+Architecture;Kafka+%7C+RabbitMQ;AWS+%7C+Azure+%7C+Kubernetes;Building+scalable+distributed+systems." alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Golang+%7C+Gorilla+CRDs+%7C;Microservices+%7C+Event-Driven+Architecture;Kafka+%7C+RabbitMQ;AWS+%7C+Azure+%7C+Kubernetes;Building+scalable+distributed+systems." alt="typing banner"/>
 </p>
 
 <h4 align="center">
