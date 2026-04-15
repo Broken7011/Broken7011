@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Engineer · Golang Microservices · Cloud & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Golang+%7C+Gorilla+CRDs+%7C;Microservices+%7C+Event-Driven+Architecture;Kafka+%7C+RabbitMQ;AWS+%7C+Azure+%7C+Kubernetes;Building+scalable+distributed+systems." alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Golang+%7C+Gorilla+%7C+Mux;Microservices+%7C+Event-Driven+Architecture;Kafka+%7C+RabbitMQ;AWS+%7C+Azure+%7C+Kubernetes;Building+scalable+distributed+systems." alt="typing banner"/>
 </p>
 
 <h4 align="center">
@@ -14,7 +14,7 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 
 ## 🧠 Core Expertise
 
-- ⚙️ Golang
+- ⚙️ Golang, Python
 - 🧩 Microservices Architecture
 - 📦 Event-Driven Systems (Kafka, RabbitMQ)
 - 🔐 Authentication & Authorization (JWT, OAuth2)
@@ -33,8 +33,8 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-icon.svg" width="40" height="40"/>
 </p>
 
 <p align="center">
