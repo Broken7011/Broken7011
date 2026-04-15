@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center">🚀 Backend Engineer · Java Spring Microservices · Cloud & DevOps</h3>
+<h3 align="center">🚀 Backend Engineer · Golang Microservices · Cloud & DevOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Java+%7C+Spring+Boot+%7C+WebFlux;Microservices+%7C+Event-Driven+Architecture;Kafka+%7C+RabbitMQ;AWS+%7C+Azure+%7C+Kubernetes;Building+scalable+distributed+systems." alt="typing banner"/>
 </p>
 
 <h4 align="center">
-I design and build scalable backend systems using <b>Java, Spring Boot, Spring WebFlux</b> and modern cloud-native architecture.<br/>
+I design and build scalable backend systems using <b>Golang</b> and modern cloud-native architecture.<br/>
 Focused on performance ⚡ reliability 🛡️ and clean system design.
 </h4>
 
@@ -14,7 +14,7 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 
 ## 🧠 Core Expertise
 
-- ⚙️ Java (Spring Boot, Spring WebFlux, Spring Security, Spring AI)
+- ⚙️ Golang
 - 🧩 Microservices Architecture
 - 📦 Event-Driven Systems (Kafka, RabbitMQ)
 - 🔐 Authentication & Authorization (JWT, OAuth2)
@@ -30,12 +30,11 @@ Focused on performance ⚡ reliability 🛡️ and clean system design.
 <p align="center">
 <p align="center">
   <!-- Core Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
+
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+
 </p>
 
 <p align="center">
