@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center">🚀 Backend & Platform Engineer · Golang Microservices · Distributed Systems · Cloud & DevOps</h3>
+<h3 align="center">🚀 Backend & Platform Engineer · Distributed Systems · Cloud & DevOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Golang+Microservices+%7C+Distributed+Systems;Kafka+%7C+Event-Driven+Architecture;Kubernetes+%7C+Cloud-Native+Platforms;Building+Scalable+Production+Systems" alt="typing banner"/>
